@@ -1,0 +1,40 @@
+.div{
+	margin-top:-105px;
+	color:white;
+	text-align:center;
+	height:700px;
+	width:270px;
+	border:3px solid black;
+
+}
+.a
+{
+	border-style: solid;
+	height:80px;
+	margin-left:300px;
+	margin-top:40px;
+
+}
+.b{
+	height:450px;
+	width:420px;
+	border:3px solid black;
+	float:left;
+	margin-left:300px;
+	margin-top:-580px;
+}
+.c{
+	height:450px;
+	width:420px;
+	border:3px solid black;
+	margin-top:-580px;
+	float:right;
+}
+.d
+{
+	border-style: solid;
+	height:80px;
+	margin-left:300px;
+	margin-top:-90px;
+
+}
